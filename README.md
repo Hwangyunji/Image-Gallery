@@ -1,6 +1,6 @@
 # Image-Gallery
 이미지 갤러리 구현 데모
-https://github.com/Hwangyunji/Image-Gallery.git
+https://hwangyunji.github.io/Image-Gallery/
 
 ## 기능소개
 - 하단의 썸네일 이미지를 클릭하면 메인 이미지가 변경되는 간단한 갤러리
